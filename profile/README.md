@@ -20,6 +20,4 @@ Our technological stack:
   - PostgreSQL
 - Miscellaneous:
   - Docker engine
-  - ? nginx
-  - ? Caddy
-  - ? HAProxy
+  - Caddy
