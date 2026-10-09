@@ -1,4 +1,4 @@
-# [Synchro]
+# Synchro
 
 "Yet-another-ERP-system"
 
