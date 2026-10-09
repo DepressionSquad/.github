@@ -6,6 +6,7 @@ The goal of this platform is so the organization members learn and embrace new t
 Our technological stack:
 - Frontend:
   - React UI kit
+    - state manager (Redux)
   - ? Svelte UI kit
   - Module Federation modularization package
   - React Router
